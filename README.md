@@ -11,7 +11,7 @@ This is a solution to the [Mark-9 of neoG camp](https://neog.camp/guide/lesson-f
 
 
 ## Overview
-- A CLI app that can quiz your friends on how well they know you.
+- A movie recommendation app made with reactjs
 
 ### The challenge
 
